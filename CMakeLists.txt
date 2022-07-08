@@ -3,4 +3,4 @@ project(LearnC__)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(LearnC__ "Chapter1Introduction/1 helloworld.cpp" Chapter1Introduction/Sales_item.cpp Chapter1Introduction/Sales_item.h)
+add_executable(LearnC__ Chapter2VariablesAndTypes/variables.cpp)
